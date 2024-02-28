@@ -1,0 +1,31 @@
+.regform{
+    width: 500px;
+    height: 400px;
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+    box-shadow: 2px 2px 2px;
+}
+.reginput{
+    width: 200px;
+    height: 30px;
+    border-radius: 5px;
+}
+.regbtn{
+    width: 100px;
+    height: 30px;
+    border-radius: 5px;
+    background: rgb(16, 171, 39);
+    color: white;
+}
+.regh1{
+    color: rgb(16, 171, 39);
+}
+.logform{
+    width: 500px;
+    height: 300px;
+    margin: auto;
+    margin-top: 40px;
+    text-align: center;
+    box-shadow: 2px 2px 2px; 
+}
